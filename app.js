@@ -10,8 +10,7 @@ eventEmitter.on('screams',function(){
     console.log("A scream is diiissssss");
 });
 
-
-
+https://github.com/stupidArnob/NodeAllRef.git
 eventEmitter.emit('screams');
 
 
